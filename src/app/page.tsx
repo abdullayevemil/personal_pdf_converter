@@ -59,6 +59,7 @@ export default function Home() {
       <h1 className="text-3xl font-bold mb-6 text-center text-gray-800">
         PDF → Quiz
       </h1>
+      <h2>© E10</h2>
 
       <div className="mb-6 flex justify-center">
         <div className="flex justify-center mb-6">

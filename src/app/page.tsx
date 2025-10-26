@@ -57,7 +57,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-white p-8 max-w-4xl mx-auto">
       <h1 className="text-3xl font-bold mb-6 text-center text-gray-800">
-        PDF → Quiz
+        PDF → Dinamic Quiz (Вроде работает)
       </h1>
       <h2 className="text-center text-gray-800">© E10</h2>
 

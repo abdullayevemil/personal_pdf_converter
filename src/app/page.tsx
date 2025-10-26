@@ -75,7 +75,7 @@ export default function Home() {
         </div>
       </div>
 
-      {loading && <p className="text-center text-gray-700">Parsing PDF...</p>}
+      {loading && <p className="text-center text-gray-700">Parsing PDF...(will take a couple of minutes)</p>}
 
       {questions.length > 0 && (
         <div className="space-y-4">
